@@ -1,0 +1,19 @@
+body{
+background-color: blue;
+color: bisque;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin: 0px;
+}
+h1{
+color: blueviolet;
+font-size: 40px;
+}
+p{
+    font-size: 25px;
+}
+header{
+border-bottom:cornflowerblue;
+margin: 2px;
+padding: 10px;
+color: blueviolet;
+}
